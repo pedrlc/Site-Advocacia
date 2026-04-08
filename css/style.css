@@ -53,7 +53,7 @@
     .hero{
     background: 
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('lawyer_office_optimized.jpg');
+    url('assets/lawyer_office_optimized.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
